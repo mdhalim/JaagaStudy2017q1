@@ -1,5 +1,6 @@
 AdHoc Volunteering tasks as the name suggests are tasks that we can't do without. These are things that needs to be done without which the JaagaStudy wouldn't be able to function the way you see it now.
 
+
 Every tasks in this section is of equal importance and therefore we have some dedicated members who continues to do them themselves. Volunteers are welcome to join in, or create a new issue if they want to pitch in!!
 
 
