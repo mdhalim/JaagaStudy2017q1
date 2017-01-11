@@ -1,17 +1,17 @@
-AdHoc Volunteering tasks as the name suggests are tasks that we can't do without. These are things that needs to be done without which the JaagaStudy wouldn't be able to function the way you see it now.  
+AdHoc Volunteering tasks as the name suggests are tasks that we can't do without. These are things that needs to be done without which the JaagaStudy wouldn't be able to function the way you see it now.    
 
 
-Every tasks in this section is of equal importance and therefore we have some dedicated members who continues to do them themselves. Volunteers are welcome to join in, or create a new issue if they want to pitch in!!
+Every tasks in this section is of equal importance and therefore we have some dedicated members who continues to do them themselves. Volunteers are welcome to join in, or create a new issue if they want to pitch in!!  
 
 
 Tasks under AdHoc Volunteering inclues these?  
-
-One time good cleaning of Kadai1(Big cooking vessel used for cooking poha, sabji etc)  
+  
+<a href="https://github.com/mdhalim/JaagaStudy2017q1/issues/6" Sweeping of study area carpet on Saturday </a>
 One time good cleaning of Kadai2 (to be taken from container, Dolly or I can help identifying that)  
 One time good cleaning of gas stove in kitchen  
 One time good cleaning of place where we clean kitchen utensils.  
 Cleaning of fridge (kitchen)  
-Sweeping of study area carpet on Saturday (3rd Nov)  
+One time good cleaning of Kadai1(Big cooking vessel used for cooking poha, sabji etc) 
 Cleaning of solar panels  
 Checking power from solar panels and start using it for more appliances if more power is available  
 Create door or some form of opening for garbage enclosure (shade)  
