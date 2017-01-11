@@ -6,7 +6,7 @@ Every tasks in this section is of equal importance and therefore we have some de
 
 Tasks under AdHoc Volunteering inclues these?  
   
-<a href="https://github.com/mdhalim/JaagaStudy2017q1/issues/6" Sweeping of study area carpet on Saturday </a>
+<a href="https://github.com/mdhalim/JaagaStudy2017q1/issues/6"> Sweeping of study area carpet on Saturday </a>
 One time good cleaning of Kadai2 (to be taken from container, Dolly or I can help identifying that)  
 One time good cleaning of gas stove in kitchen  
 One time good cleaning of place where we clean kitchen utensils.  
