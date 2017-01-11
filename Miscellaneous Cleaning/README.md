@@ -2,9 +2,9 @@ Miscellaneous Tasks includes all other cleaning tasks that results in the clean 
 
 Some of the tasks which fall under this category are as follows:
 
-1: Cleaning the bathroom floors and the toilent sink
-2: Cleaning the washbasins
-3: Cleaning the floors of the work area
+<a href= "https://github.com/mdhalim/JaagaStudy2017q1/issues/11">  Cleaning the bathroom floors and the toilent sink </a>  
+<a href= "https://github.com/mdhalim/JaagaStudy2017q1/issues/7">Cleaning the washbasins </a>  
+<a href= "https://github.com/mdhalim/JaagaStudy2017q1/issues/6">Cleaning the study space floors  </a>  
 
 
 Feel free to add any Cleaning tasks that you take up or think needs some attention.
