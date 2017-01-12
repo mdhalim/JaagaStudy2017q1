@@ -16,7 +16,7 @@ All the tasks are added as issues and <a href="https://github.com/mdhalim/JaagaS
 To volunteer for any task, just put a comment with the updates and the admin will mark it as closed. We will keep the daily tasks open everyday. So just put a comment if you worked on it.  
 <b>Assign the task to yourself if you are taking up the task, so that we know what tasks needs to be done</b>
 
-AdHoc Tasks are one of Tasks which has to be done, once in while or weekly depending upon the level of urgency. Those tasks will be labelled as adhoc and its on you to take it up if nobody has done it in the last week. We will mark the issue as closed once someone has done it in that week and we shall open it in the next week again.
+AdHoc Tasks are Tasks which needs to be done, once in while or weekly depending upon the level of urgency. Those tasks will be labelled as adhoc and its on you to take it up if nobody has done it in the last week. We will mark the issue as closed once someone has done it in that week and we shall open it in the next week again.
 
 
 Cheers!
