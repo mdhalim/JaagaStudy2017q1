@@ -18,5 +18,6 @@ To volunteer for any task, just put a comment with the updates and the admin wil
 
 AdHoc Tasks are Tasks which needs to be done, once in while or weekly depending upon the level of urgency. Those tasks will be labelled as adhoc and its on you to take it up if nobody has done it in the last week. We will mark the issue as closed once someone has done it in that week and we shall open it in the next week again.
 
-
 Cheers!
+
+Md Halim
